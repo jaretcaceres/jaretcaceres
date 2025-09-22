@@ -57,12 +57,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaareet&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaareet&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaretcaceres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaretcaceres&layout=compact&langs_count=8&theme=github_dark"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaareet&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaretcaceres&theme=github-dark-blue&hide_border=true" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaareet&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jaretcaceres&theme=darkhub&no-frame=true&margin-w=15" />
 </div>
 
 ---
@@ -79,9 +79,9 @@
 
 <div align="center">
 
-<!-- [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jaareet.dev) -->
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jaret.es)
 <!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.jaareet.dev/discord) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaretcaceres@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@jaret.es)
 
 </div>
 
@@ -90,13 +90,13 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaareet&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaretcaceres&theme=github-compact" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jaareet&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jaretcaceres&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
   ### "Code is like humor. When you have to explain it, it's bad." – Cory House
   
