@@ -22,7 +22,7 @@
 💻 **Front-End Enthusiast** - Specialized in modern web interfaces and user experience design  
 🔧 **Systems Administrator** - Server management, optimization, and infrastructure maintenance  
 📚 **Continuous Learning** - SMR student with hands-on experience in real-world projects  
-📧 **Contact** - jaretcaceres@gmail.com
+📧 **Contact** - contacto@jaret.es
 </div>
 
 <br clear="both" />
