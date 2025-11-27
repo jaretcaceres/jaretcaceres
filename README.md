@@ -1,64 +1,60 @@
 <div align="center">
 
-# Hi there, I'm Jaareet 👋
+# Hi there, I'm Jaret 👋  
 
-### Front-End Developer | Systems Administrator | Game Developer
+### Front-End Engineer · Systems & Infrastructure · Creative Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=58a6ff&width=600&height=50&lines=Front-End+Developer;Systems+Administrator;Game+Developer;SMR+Student;Technology+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=58a6ff&width=720&height=50&lines=Front-End+Engineer+at+Seaside+Collection;Systems+Administrator;Self-Taught+Developer;From+Game+Scripting+to+Luxury+Hospitality+Tech" />
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaretcaceres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaretcaceres)
+[![Website](https://img.shields.io/badge/Portfolio-jaret.es-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jaret.es)
+[![Instagram](https://img.shields.io/badge/Instagram-jaretcaceres-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaretcaceres)
+[![Email](https://img.shields.io/badge/Email-contacto%40jaret.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@jaret.es)
+
 ---
+
+</div>
 
 ## 🚀 About Me
 
 <img align="right" alt="Jaret's Github Profiles" width="186" src="logo.png">
 
 <div align="start">
-  
-**Self-taught developer since 2020, passionate about technology and FiveM platform development.** Currently studying Systems Microcomputer Networks and Administration (SMR) with a strong focus on front-end development and systems administration.
 
-🎮 **FiveM Developer** - 5 years creating custom resources and server solutions using Lua scripting  
-💻 **Front-End Enthusiast** - Specialized in modern web interfaces and user experience design  
-🔧 **Systems Administrator** - Server management, optimization, and infrastructure maintenance  
-📚 **Continuous Learning** - SMR student with hands-on experience in real-world projects  
-📧 **Contact** - contacto@jaret.es
+I'm a **self-taught Front-End Engineer and Systems Administrator**, currently working in the IT & digital area of **Seaside Collection** in the Canary Islands — the group behind **Seaside Hotels** and **Riverside Luxury Cruises**.
+
+My path into tech didn't start in a classroom. I began at **14**, writing my own scripts and systems for games like **Minecraft** and **FiveM**. What looked like “modding” from the outside was, in reality, my first contact with:
+
+- event-driven architectures  
+- client–server interactions  
+- performance constraints  
+- user experience in real communities  
+
+From there, I moved from game ecosystems to **production software**: first building internal tools and UIs, then full interfaces, and finally taking ownership of the front-end layer and part of the infrastructure behind it.
+
+Today my work is focused on:
+
+- **Front-End Engineering** – building modern, component-driven interfaces (React/Next.js), thinking in terms of architecture, performance, accessibility, and maintainability over time.  
+- **Systems & Infrastructure** – working with Linux-based environments, domains, DNS, SSL, deployments, monitoring, and the operational side needed to keep products online and stable.  
+- **Design-to-Dev Workflow** – using **Figma** to align with design and product, and then translating those systems into consistent, responsive, production-grade UI.
+
+I like owning problems end-to-end: from understanding the product and the user journey, to shaping the interface, to ensuring the underlying systems are robust enough to support it in production.
+
+What started as scripting for **Minecraft** and **FiveM** servers turned into a professional career building **interfaces and infrastructure** for an international luxury hospitality group — and I’m still pushing to raise the bar on everything I ship.
+
 </div>
 
 <br clear="both" />
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaretcaceres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaretcaceres&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaretcaceres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaretcaceres&layout=compact&langs_count=8&theme=github_dark" />
 </div>
 
 <div align="center">
@@ -79,9 +75,10 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.jaret.es)
-<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.jaareet.dev/discord) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@jaret.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaretcaceres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaretcaceres)
+[![Website](https://img.shields.io/badge/Portfolio-jaret.es-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jaret.es)
+[![Instagram](https://img.shields.io/badge/Instagram-jaretcaceres-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaretcaceres)
+[![Email](https://img.shields.io/badge/Email-contacto%40jaret.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@jaret.es)
 
 </div>
 
@@ -96,9 +93,10 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaretcaceres&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
-  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ![](https://komarev.com/ghpvc/?username=jaretcaceres)
+  
+  ### “Engineering is about making complex things feel simple — without ever being simplistic.”
   
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
