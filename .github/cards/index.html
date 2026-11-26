@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Geist+Mono:wght@400&display=block" rel="stylesheet">
+<style>
+@font-face { font-family: "Open Runde"; src: url(OpenRunde-Semibold.woff2) format("woff2"); font-weight: 600; }
+:root {
+  --page: #ffffff; --card: #fcfcfc; --border: #e8e8e8; --inner: #ffffff; --shot: #f0f0f0;
+  --g900: #8d8d8d; --g1000: #747474; --g1100: #646464; --g1200: #202020; --blue: #1c6eeb;
+}
+:root[data-scheme="dark"] {
+  --page: #0d1117; --card: #0f0f0f; --border: #2b2b2b; --inner: #161616; --shot: #1c1c1c;
+  --g900: #6e6e6e; --g1000: #8f8f8f; --g1100: #b4b4b4; --g1200: #ededed; --blue: #5a9bff;
+}
+* { box-sizing: border-box; margin: 0; }
+html, body { background: var(--page); }
+body { width: 600px; height: 500px; display: grid; place-items: center; font-family: Inter, sans-serif; -webkit-font-smoothing: antialiased; }
+.card { width: 576px; height: 476px; border-radius: 24px; background: var(--card); border: 1px solid var(--border); padding: 6px; box-shadow: 0 1px 2px rgb(0 0 0 / .04), 0 8px 24px rgb(0 0 0 / .04); }
+.inner { height: 100%; border-radius: 18px; background: var(--inner); border: 1px solid var(--border); padding: 10px; display: flex; flex-direction: column; }
+.shot { height: 316px; border-radius: 10px; overflow: hidden; background: var(--shot); box-shadow: inset 0 0 0 1px var(--border); }
+.shot img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.text { padding: 20px 14px 0; }
+.head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.name { font-family: "Open Runde", Inter, sans-serif; font-weight: 600; font-size: 26px; letter-spacing: -.01em; color: var(--g1200); }
+.years { font-family: "Geist Mono", monospace; font-size: 13px; color: var(--g1000); white-space: nowrap; }
+.role { margin-top: 2px; font-size: 15px; color: var(--blue); font-weight: 500; }
+.desc { margin-top: 10px; font-size: 16px; line-height: 1.5; color: var(--g1100); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+</style>
+</head>
+<body>
+<div class="card"><div class="inner">
+  <div class="shot"><img id="shot" alt=""></div>
+  <div class="text">
+    <div class="head"><span class="name" id="name"></span><span class="years" id="years"></span></div>
+    <div class="role" id="role"></div>
+    <p class="desc" id="desc"></p>
+  </div>
+</div></div>
+<script>
+const projects = {
+  semiglobe: {
+    name: "Semiglobe", years: "2026 – hoy", role: "Cofundador y CTO",
+    desc: "Software europeo para empresas: comunicación, productividad, identidad y seguridad en un mismo espacio.",
+    shot: "https://jaret.es/projects/semiglobe/landing-2026-11.webp", position: "left top",
+  },
+  "jgs-store": {
+    name: "JGS Store", years: "2025 – hoy", role: "Cofundador · Tebex Award 2025",
+    desc: "Recursos para FiveM. La tienda en Next.js con pagos vía Tebex y un chat en más de 2.000 servidores.",
+    shot: "https://jaret.es/projects/jgs-store/tienda.webp", position: "30% center",
+  },
+  "hifi-guard": {
+    name: "HiFi Guard", years: "2026", role: "Código abierto · MIT",
+    desc: "Evita que los cascos Bluetooth caigan en modo llamada en macOS. Rust, Core Audio y Liquid Glass.",
+    shot: "https://jaret.es/projects/hifi-guard/menu.webp", position: "center",
+  },
+  "jaret-es": {
+    name: "jaret.es", years: "2025 – hoy", role: "Proyecto propio",
+    desc: "Mi web. Next.js 16, React 19 y Motion, con tres temas y uno de ellos es una terminal de verdad.",
+    shot: "jaret-es-terminal.png", position: "left top",
+  },
+};
+const params = new URLSearchParams(location.search);
+const scheme = params.get("scheme") === "dark" ? "dark" : "light";
+const project = projects[params.get("p")] ?? projects.semiglobe;
+document.documentElement.dataset.scheme = scheme;
+for (const key of ["name", "years", "role", "desc"]) document.getElementById(key).textContent = project[key];
+const shot = document.getElementById("shot");
+shot.src = project.shot;
+shot.style.objectPosition = project.position;
+</script>
+</body>
+</html>

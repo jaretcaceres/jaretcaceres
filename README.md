@@ -21,12 +21,14 @@ Cofundé **[Semiglobe](https://semiglobe.es)** con Jorge Pardavila y soy su CTO.
 
 ## Proyectos
 
-| Proyecto | Qué es |
-| --- | --- |
-| **[Semiglobe](https://semiglobe.es)**<br><sub>2026 – hoy · Cofundador y CTO</sub> | Software integrado para empresas: comunicación, productividad, identidad y seguridad en un mismo espacio. |
-| **[JGS Store](https://jgs-store.com)**<br><sub>2025 – hoy · Cofundador</sub> | Tienda de recursos para FiveM. La tienda en Next.js con pagos vía Tebex, un chat en más de 2.000 servidores y un **Tebex Award** en 2025. |
-| **[HiFi Guard](https://github.com/jaretcaceres/hifi-guard)**<br><sub>2026 · Código abierto (MIT)</sub> | App de la barra de menús de macOS que evita que los cascos Bluetooth caigan en modo llamada. Rust, Core Audio por FFI y Liquid Glass nativo. |
-| **[jaret.es](https://jaret.es)**<br><sub>2025 – hoy · Proyecto propio</sub> | Mi web. Next.js 16, React 19 y Motion, tres temas (uno es una terminal de verdad) y una versión en Markdown de cada página. |
+<p align="center">
+  <a href="https://semiglobe.es"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/semiglobe-dark.jpg"><img src="assets/projects/semiglobe-light.jpg" alt="Semiglobe, cofundador y CTO desde 2026: software europeo para empresas." width="49%"></picture></a>
+  <a href="https://jgs-store.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/jgs-store-dark.jpg"><img src="assets/projects/jgs-store-light.jpg" alt="JGS Store, cofundador desde 2025: recursos para FiveM con la tienda en Next.js y un Tebex Award en 2025." width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/jaretcaceres/hifi-guard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/hifi-guard-dark.jpg"><img src="assets/projects/hifi-guard-light.jpg" alt="HiFi Guard, código abierto: evita que los cascos Bluetooth caigan en modo llamada en macOS." width="49%"></picture></a>
+  <a href="https://jaret.es"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/jaret-es-dark.jpg"><img src="assets/projects/jaret-es-light.jpg" alt="jaret.es, mi web: Next.js 16, React 19 y Motion, con un tema que es una terminal de verdad." width="49%"></picture></a>
+</p>
 
 ## Open source
 
