@@ -21,14 +21,17 @@ Cofundé **[Semiglobe](https://semiglobe.es)** con Jorge Pardavila y soy su CTO.
 
 ## Proyectos
 
-<p align="center">
-  <a href="https://semiglobe.es"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/semiglobe-dark.jpg"><img src="assets/projects/semiglobe-light.jpg" alt="Semiglobe, cofundador y CTO desde 2026: software europeo para empresas." width="49%"></picture></a>
-  <a href="https://jgs-store.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/jgs-store-dark.jpg"><img src="assets/projects/jgs-store-light.jpg" alt="JGS Store, cofundador desde 2025: recursos para FiveM con la tienda en Next.js y un Tebex Award en 2025." width="49%"></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/jaretcaceres/hifi-guard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/hifi-guard-dark.jpg"><img src="assets/projects/hifi-guard-light.jpg" alt="HiFi Guard, código abierto: evita que los cascos Bluetooth caigan en modo llamada en macOS." width="49%"></picture></a>
-  <a href="https://jaret.es"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/jaret-es-dark.jpg"><img src="assets/projects/jaret-es-light.jpg" alt="jaret.es, mi web: Next.js 16, React 19 y Motion, con un tema que es una terminal de verdad." width="49%"></picture></a>
-</p>
+**[Semiglobe](https://semiglobe.es)** · Cofundador y CTO · <sub>2026 – hoy</sub><br>
+Software europeo para empresas: comunicación, productividad, identidad y seguridad en un mismo espacio.
+
+**[JGS Store](https://jgs-store.com)** · Cofundador · <sub>2025 – hoy</sub><br>
+Recursos para FiveM. Hice la tienda en Next.js con pagos vía Tebex; el chat funciona en más de 2.000 servidores y la tienda ganó un Tebex Award en 2025.
+
+**[HiFi Guard](https://github.com/jaretcaceres/hifi-guard)** · Código abierto · <sub>2026</sub><br>
+App de la barra de menús de macOS que evita que los cascos Bluetooth caigan en modo llamada. Rust, Core Audio por FFI y Liquid Glass nativo.
+
+**[jaret.es](https://jaret.es)** · Proyecto propio · <sub>2025 – hoy</sub><br>
+Mi web. Next.js 16, React 19 y Motion, tres temas (uno es una terminal de verdad) y una versión en Markdown de cada página.
 
 ## Open source
 
@@ -53,11 +56,10 @@ Todas, con su estado, en [jaret.es/projects/open-source](https://jaret.es/projec
 
 ## Con qué trabajo
 
-<p>
-  <a href="https://jaret.es/about">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,graphql,postgres,docker,rust,linux,cloudflare,figma&perline=12" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, GraphQL, PostgreSQL, Docker, Rust, Linux, Cloudflare y Figma" height="40">
-  </a>
-</p>
+**Frontend** · React, Next.js, TypeScript, Tailwind CSS, Motion<br>
+**Backend** · Node.js, APIs REST y GraphQL, patrón BFF, PostgreSQL<br>
+**Infraestructura** · Docker, Dokploy, Cloudflare, Linux<br>
+**También** · Rust para apps de macOS, Figma para diseñar
 
 <br>
 
