@@ -1,102 +1,64 @@
-<div align="center">
-
-# Hi there, I'm Jaret 👋  
-
-### Front-End Engineer · Systems & Infrastructure · Creative Developer
+<a href="https://jaret.es">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+    <img src="assets/header-light.png" alt="Jaret Cáceres, Full Stack Developer y cofundador y CTO de Semiglobe. Interfaces con React, Next.js y TypeScript. Abierto a nuevas oportunidades, en Las Palmas de Gran Canaria." width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=58a6ff&width=720&height=50&lines=Front-End+Engineer+at+Seaside+Collection;Systems+Administrator;Self-Taught+Developer;From+Game+Scripting+to+Luxury+Hospitality+Tech" />
+  <a href="https://jaret.es"><b>jaret.es</b></a> ·
+  <a href="https://jaret.es/writing">Escritos</a> ·
+  <a href="https://jaret.es/projects">Proyectos</a> ·
+  <a href="https://jaret.es/jaret-caceres-perfil-profesional.pdf">CV</a> ·
+  <a href="https://linkedin.com/in/jaretcaceres">LinkedIn</a> ·
+  <a href="https://x.com/jaretcaceres">X</a> ·
+  <a href="mailto:contacto@jaret.es">contacto@jaret.es</a>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaretcaceres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaretcaceres)
-[![Website](https://img.shields.io/badge/Portfolio-jaret.es-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jaret.es)
-[![Instagram](https://img.shields.io/badge/Instagram-jaretcaceres-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaretcaceres)
-[![Email](https://img.shields.io/badge/Email-contacto%40jaret.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@jaret.es)
+## Ahora
 
----
+Cofundé **[Semiglobe](https://semiglobe.es)** con Jorge Pardavila y soy su CTO. Estamos construyendo Semiglobe Workspace, un espacio de trabajo privado para empresas y equipos. Antes hice desde cero el frontend y parte del backend de un ecosistema de reservas para cruceros de lujo en **Seaside Collection**, con una capa BFF, integraciones con PMS y CRM y bastante trabajo de TTFB.
 
-</div>
+## Proyectos
 
-## 🚀 About Me
+| Proyecto | Qué es |
+| --- | --- |
+| **[Semiglobe](https://semiglobe.es)**<br><sub>2026 – hoy · Cofundador y CTO</sub> | Software integrado para empresas: comunicación, productividad, identidad y seguridad en un mismo espacio. |
+| **[JGS Store](https://jgs-store.com)**<br><sub>2025 – hoy · Cofundador</sub> | Tienda de recursos para FiveM. La tienda en Next.js con pagos vía Tebex, un chat en más de 2.000 servidores y un **Tebex Award** en 2025. |
+| **[HiFi Guard](https://github.com/jaretcaceres/hifi-guard)**<br><sub>2026 · Código abierto (MIT)</sub> | App de la barra de menús de macOS que evita que los cascos Bluetooth caigan en modo llamada. Rust, Core Audio por FFI y Liquid Glass nativo. |
+| **[jaret.es](https://jaret.es)**<br><sub>2025 – hoy · Proyecto propio</sub> | Mi web. Next.js 16, React 19 y Motion, tres temas (uno es una terminal de verdad) y una versión en Markdown de cada página. |
 
-<img align="right" alt="Jaret's Github Profiles" width="186" src="logo.png">
+## Open source
 
-<div align="start">
+Desde 2021 he abierto **más de 30 PRs** en proyectos de otras personas. Dos destacadas:
 
-I'm a **self-taught Front-End Engineer and Systems Administrator**, currently working in the IT & digital area of **Seaside Collection** in the Canary Islands — the group behind **Seaside Hotels** and **Riverside Luxury Cruises**.
+- **[levelsio/xdr-boost](https://github.com/levelsio/xdr-boost/pull/16)**: un panel de control en la barra de menús y [un arreglo](https://github.com/levelsio/xdr-boost/pull/15) para el brillo que parpadeaba al cambiar de escritorio.
+- **[midudev/la-velada-web-oficial](https://github.com/midudev/la-velada-web-oficial/pull/1444)**: datos de redes y canales de YouTube de los boxeadores en la web de La Velada. Integrada.
 
-My path into tech didn't start in a classroom. I began at **14**, writing my own scripts and systems for games like **Minecraft** and **FiveM**. What looked like “modding” from the outside was, in reality, my first contact with:
+Todas, con su estado, en [jaret.es/projects/open-source](https://jaret.es/projects/open-source).
 
-- event-driven architectures  
-- client–server interactions  
-- performance constraints  
-- user experience in real communities  
+## Últimos escritos
 
-From there, I moved from game ecosystems to **production software**: first building internal tools and UIs, then full interfaces, and finally taking ownership of the front-end layer and part of the infrastructure behind it.
+<!-- writing:start -->
+- [Unos cascos que no suenen a llamada](https://jaret.es/writing/unos-cascos-que-no-suenen-a-llamada) · <sub>25 oct 2026</sub>
+- [El brillo que se iba al cambiar de escritorio](https://jaret.es/writing/el-brillo-que-se-iba-al-cambiar-de-escritorio) · <sub>20 oct 2026</sub>
+- [Por qué esta web vuelve a Next.js](https://jaret.es/writing/por-que-esta-web-vuelve-a-nextjs) · <sub>20 oct 2026</sub>
+- [Un panel para XDR Boost en la barra de menús](https://jaret.es/writing/un-panel-para-xdr-boost) · <sub>20 oct 2026</sub>
+- [El foco que no se ve en Tailwind CSS v4](https://jaret.es/writing/el-foco-que-no-se-ve) · <sub>5 oct 2026</sub>
+<!-- writing:end -->
 
-Today my work is focused on:
+<sub>Se actualiza solo cada día desde [el feed de jaret.es](https://jaret.es/feed.json).</sub>
 
-- **Front-End Engineering** – building modern, component-driven interfaces (React/Next.js), thinking in terms of architecture, performance, accessibility, and maintainability over time.  
-- **Systems & Infrastructure** – working with Linux-based environments, domains, DNS, SSL, deployments, monitoring, and the operational side needed to keep products online and stable.  
-- **Design-to-Dev Workflow** – using **Figma** to align with design and product, and then translating those systems into consistent, responsive, production-grade UI.
+## Con qué trabajo
 
-I like owning problems end-to-end: from understanding the product and the user journey, to shaping the interface, to ensuring the underlying systems are robust enough to support it in production.
+<p>
+  <a href="https://jaret.es/about">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,graphql,postgres,docker,rust,linux,cloudflare,figma&perline=12" alt="React, Next.js, TypeScript, Tailwind CSS, Node.js, GraphQL, PostgreSQL, Docker, Rust, Linux, Cloudflare y Figma" height="40">
+  </a>
+</p>
 
-What started as scripting for **Minecraft** and **FiveM** servers turned into a professional career building **interfaces and infrastructure** for an international luxury hospitality group — and I’m still pushing to raise the bar on everything I ship.
+<br>
 
-</div>
-
-<br clear="both" />
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaretcaceres&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaretcaceres&layout=compact&langs_count=8&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaretcaceres&theme=github-dark-blue&hide_border=true" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jaretcaceres&theme=darkhub&no-frame=true&margin-w=15" />
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jaretcaceres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaretcaceres)
-[![Website](https://img.shields.io/badge/Portfolio-jaret.es-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jaret.es)
-[![Instagram](https://img.shields.io/badge/Instagram-jaretcaceres-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaretcaceres)
-[![Email](https://img.shields.io/badge/Email-contacto%40jaret.es-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@jaret.es)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaretcaceres&theme=github-compact" />
-</div>
-
----
-
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=jaretcaceres)
-  
-  ### “Engineering is about making complex things feel simple — without ever being simplistic.”
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
+<p align="center">
+  <sub>Las Palmas de Gran Canaria · <a href="mailto:contacto@jaret.es">¿Hablamos?</a></sub>
+</p>
